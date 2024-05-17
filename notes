@@ -1,0 +1,25 @@
+Main features:
+Julia Set
+mandelbrot set <----- come from ApplyColorTable <----
+
+ApplyColorTable <------ applies to numberGrid
+
+NumberGrid <------- CalculateFractal
+
+CalculateFractal <------ 
+
+Uses Height*width*mMaxNumber*EscapeCount
++ Plane Window (2.0, -2.0) --< inherits fro numberGrid
+
+IMPORTANT:
+Plane window**
+A,B of julia **
+Zooming and moving**
+Color Table maniplulations**
+Generation of colors**
+Scrolling zooming
+
+Finals:
+Filter
+PPM -> [FILTER] -> PPM
+
